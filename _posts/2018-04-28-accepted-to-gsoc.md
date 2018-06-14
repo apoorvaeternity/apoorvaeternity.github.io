@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GSoC 2018-The Journey Begins
+excerpt: My open source journey started with Mozilla, one of the biggest open source organizations.... 
 ---
 
 My open source journey started with Mozilla, one of the biggest open source organizations. I contributed to Mozilla's [addons-server](https://github.com/mozilla/addons-server/) repository.<br>

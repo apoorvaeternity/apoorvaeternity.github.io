@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GSoC 2018-The First Week of Coding Period
+excerpt: Hey folks of planet Earth(I hope aliens read it someday), The first week of the coding period has.... 
 ---
 
 Hey folks of planet Earth(I hope aliens read it someday),<br>

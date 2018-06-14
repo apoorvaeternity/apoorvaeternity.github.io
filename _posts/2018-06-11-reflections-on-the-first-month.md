@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GSoC 2018-Reflections On The First Month
+excerpt: The first month of the coding period is almost over. In the last two weeks I have worked on.... 
 ---
 
 The first month of the coding period is almost over.
