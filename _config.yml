@@ -5,7 +5,7 @@ permalink:        pretty
 title:           Apoorva Pandey
 tagline:          "Welcome to my life"
 description:      'Developer at Software Incubator | Open Source Contributor'
-url:              https://www.apoorvaeternity.github.io
+url:              http://www.apoorvapandey.me
 baseurl:
 
 author:
@@ -20,8 +20,6 @@ version:          1.0.0
 github:
   repo:           https://github.com/apoorvaeternity/apoorvaeternity.github.io
 
-
-url: https://www.apoorvaeternity.github.io
 
 # Includes an icon in the footer for each username you enter
 footer-links:
